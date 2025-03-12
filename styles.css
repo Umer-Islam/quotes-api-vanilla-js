@@ -34,4 +34,6 @@ main {
   align-items: center;
   height: 100vh;
   gap: 1.25rem;
+  margin: 1%;
+  padding: 1%;
 }
